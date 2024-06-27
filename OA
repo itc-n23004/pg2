@@ -1,0 +1,161 @@
+[33mcommit 61d12f4661de10cd63277ef0b557fa85e22aeff0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Thu Jun 27 00:54:28 2024 +0000
+
+    無視リスト更新
+
+[33mcommit ebdee3e8db96b4540f0c9720e9e33d23a2663076[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 02:47:16 2024 +0000
+
+    ch14
+
+[33mcommit 86c4151e4bb84980b718bcb2166c5b2f381f90e5[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 02:34:02 2024 +0000
+
+    ch14
+
+[33mcommit 4182eb92d7fab674c9a79875893e6420dddb2055[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 02:29:45 2024 +0000
+
+    ch14
+
+[33mcommit 98c7678ea787075a68b78dbafce6ae72eb2472d3[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 02:28:59 2024 +0000
+
+    ch14
+
+[33mcommit 62a752ca479de86caa08780876af2d37bb5d0c9c[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 02:19:38 2024 +0000
+
+    ch14
+
+[33mcommit a388f1198dd982d3881244f3c486920824fe079a[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 01:56:42 2024 +0000
+
+    ch14
+
+[33mcommit 5cb73724040290b8a36643cce7add911c8263518[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 26 01:51:35 2024 +0000
+
+    p405-p433 google sheetの操作
+
+[33mcommit aa48a464fedccfa85ae7a6ba74e1aebc66a279c0[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue Jun 25 02:28:40 2024 +0000
+
+    ch14
+
+[33mcommit 20a361083c33e51ffa79251e3d571ad68b704519[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue Jun 25 02:15:48 2024 +0000
+
+    ch14
+
+[33mcommit b7eca5049fcc27bf94a0ffa434a961098fedc984[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[mrefs/original/refs/remotes/origin/main[m[33m)[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Thu Jun 20 01:30:05 2024 +0000
+
+    p378-p404 Excelスプレッドシートの操作
+
+[33mcommit 93d10bce6bacfdd67dec5260695187a5d0a00f17[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Thu Jun 13 03:24:41 2024 +0000
+
+    p328-p368 webスクレイピング
+
+[33mcommit 2697a61ebaed8a0433530b66964fe7976bb81fa3[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue Jun 11 01:36:26 2024 +0000
+
+    p305-p326 デバッグ
+
+[33mcommit 8d772241e6b0894710580f0cd7903f8b04f19154[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Fri Jun 7 02:43:20 2024 +0000
+
+    p294-p304 ファイル管理
+
+[33mcommit f0d90d61fa268e48a7fa934560eff6216d664984[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed Jun 5 01:52:36 2024 +0000
+
+    p269-p281 ファイルの読み書き
+
+[33mcommit 639f9ea999c9beecc879f294eca1d36812c64485[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed May 29 01:07:45 2024 +0000
+
+    p236-242 ch8 入力検証
+
+[33mcommit 5072fa446a0a9a4bef6c3d7e3c64eee87fea0887[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 28 08:00:55 2024 +0000
+
+    p193-p225 ch7 正規表現を使ったパターンマッチ
+
+[33mcommit f741e8a60c6a38282a39dfbc2cf737500059aa8b[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 21 04:03:33 2024 +0000
+
+    p159-p189 6章 文字列の操作
+
+[33mcommit fe7ff9551cb064acedc8b685cf58365bbf6b7792[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Thu May 16 03:24:03 2024 +0000
+
+    p156-158
+
+[33mcommit ceb03ef428ed3c8ec2b23dba510f6b485a543355[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed May 15 01:51:45 2024 +0000
+
+    p125-p131 ch4 リスト
+
+[33mcommit 5586b91073c01230f1daa79d49ca4cc49567dde7[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 14 01:50:41 2024 +0000
+
+    p93-94 ch3 演習プロジェクト
+
+[33mcommit 8bbe120c10d1695ee5ca426d1e103b2575fcc47a[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 14 01:03:34 2024 +0000
+
+    p89-p92 ch3 短いプログラム:ジグザグ
+
+[33mcommit 92a9ee8e8c12e299f7ac930e130864bc958070d7[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Thu May 9 01:36:46 2024 +0000
+
+    p61,p63 ch2 フロー制御課題
+
+[33mcommit c822c6b865c05e88173dd96c61db55102e034b80[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Wed May 8 00:57:59 2024 +0000
+
+    15ページ課題
+
+[33mcommit c30f6c06ba9101afd4b000ca6b8a62353d1f5b2f[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 7 02:00:26 2024 +0000
+
+    readme
+
+[33mcommit 07fa2b051aa40eee4e935015249f32f2320e93e0[m
+Author: itc-n23004 <n23004@std.it-college.ac.jp>
+Date:   Tue May 7 01:59:14 2024 +0000
+
+    readme
+
+[33mcommit 9ee1538937980bef83ffb4fe28480e54d7a128b0[m
+Author: itc-n23004 <131749403+itc-n23004@users.noreply.github.com>
+Date:   Tue May 7 10:56:04 2024 +0900
+
+    Initial commit
